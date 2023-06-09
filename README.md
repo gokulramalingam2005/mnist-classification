@@ -25,8 +25,8 @@ Write your own steps
 
 ## PROGRAM
 ~~~
-Developed by: Pabbarthi Chetan Sathish Kumar
-Regno : 212220230033
+Developed by:Gokul R
+Regno : 212222230039
 ~~~
 ```python
 import numpy as np
